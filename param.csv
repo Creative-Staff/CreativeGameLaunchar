@@ -1,0 +1,16 @@
+,string,"0:Act,
+1:RPG,
+2:Shooting,
+3:Simulation,
+4:Novel,
+5:Race
+6:Other
+半角数字で入力",string,string,string,bool,bool
+EndHead,ゲームタイトル,ジャンル,フォルダ名,起動ファイル名,説明文,3Dゲーム？,体験版？
+,ACE BREAK,2,ACE BREAK,ACE_BREAK(64bit).exe,"ACEBREAKの説明文
+こちらはAB説明文です
+Excelの改行はそのまま反映されるよ！",FALSE,FALSE
+,地球侵略だぁぁぁぁ！！,0,地球侵略だぁぁぁぁ！！_ver1.1,地球侵略だぁぁぁぁ！！_ver1.1.exe,だぁぁぁぁ！！,FALSE,TRUE
+,Flos/VioleT,1,Flos_VioleT_v002,Flos_VioleT_v002.exe,Flos/の説明文です,TRUE,TRUE
+,Creation of Dungeon,3,Creation_of_dungeon_ver0.95,CreationOfDungeon_master.exe,クリダンの説明文です,FALSE,TRUE
+,Race Craft,5,RaceCraft,RaceCraft.exe,レースクラフトの説明文です,TRUE,FALSE
