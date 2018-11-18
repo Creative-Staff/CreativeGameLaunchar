@@ -1,3 +1,5 @@
+![Top Image](https://github.com/Creative-Staff/CreativeGameLaunchar/blob/master/Assets/Sprites/Other/cgl.PNG)
+
 # CreativeGameLaunchar
 サークル展示用ゲーム起動ランチャー「CreativeGameLaunchar」
 
